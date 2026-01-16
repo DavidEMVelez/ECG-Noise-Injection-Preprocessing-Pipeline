@@ -16,3 +16,11 @@ Authors: David Velez
 
 ## Requirements
 The MIT-BIH Arrhythmia Database and MIT-BIH Noise Stress Test Database must be **downloaded and uncompressed** in the **same directory where the Python scripts are located**.
+
+### Installation
+**Download and extract the databases** from PhysioNet:
+
+- `[MIT-BIH Arrhythmia Database](https://www.physionet.org/content/mitdb/1.0.0/)`  
+- `[MIT-BIH Noise Stress Test Database](https://physionet.org/content/nstdb/1.0.0/)`  
+
+Place them **Directly in the repository root folder** (same folder as the Python scripts).
